@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileShopee", "MobileShopee\MobileShopee.csproj", "{2CDA4AC9-4D50-4A19-8776-994EFD9B973A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CDA4AC9-4D50-4A19-8776-994EFD9B973A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CDA4AC9-4D50-4A19-8776-994EFD9B973A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CDA4AC9-4D50-4A19-8776-994EFD9B973A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CDA4AC9-4D50-4A19-8776-994EFD9B973A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {123F020B-D366-4806-B927-5A47D3B1131D}
+	EndGlobalSection
+EndGlobal
